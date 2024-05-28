@@ -7,8 +7,6 @@
 
 本项目实现了手搓一个简单的续写GPT
 
-[GitHub](ssss)
-
 具体实现：从 **基础二元语言模型** 到 **基于Transform架构（Only Decoder）的GPT模型**
 
 * BigramLanguageModel 数据集：绿野仙踪
