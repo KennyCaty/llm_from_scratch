@@ -1,0 +1,2 @@
+# llm_from_scratch
+简单的transformer架构复现llm模型
